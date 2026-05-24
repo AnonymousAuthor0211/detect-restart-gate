@@ -1,0 +1,14 @@
+torch
+transformers
+datasets
+accelerate
+sentencepiece
+safetensors
+protobuf
+huggingface_hub
+sympy
+latex2sympy2
+antlr4-python3-runtime
+numpy
+scikit-learn
+wandb
